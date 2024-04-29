@@ -1,2 +1,2 @@
-# quotations
+# Quotations
 Favourite quotations
